@@ -1,0 +1,89 @@
+{
+    "name": "Campania",
+    "children": [
+     {
+      "name": "Avellino",
+      "children": [
+       {"name": "Contrada", "size":2},
+       {"name": "Forino", "size": 3},
+       {"name": "Manocalzati", "size": 1},
+       {"name": "Rocca San Felice", "size": 1},
+       {"name": "Tufo", "size": 1},
+       {"name": "Teora", "size": 1},
+       {"name": "Aiello del Sabato", "size": 5},
+       {"name": "Aquilonia", "size": 1},
+       {"name": "Summonte", "size": 1},
+       {"name": "Bonito", "size": 7},
+       {"name": "Baiano", "size": 2},
+       {"name": "Fontanarosa", "size": 1},
+       {"name": "Lacedonia", "size": 2},
+       {"name": "Torella dei Lombardi", "size": 1}
+      
+      ]
+       
+      
+     },
+    
+     {
+      "name": "Benevento",
+      "children": [
+       {"name": "San Bartolomeo in Galdo", "size": 1}
+      ]
+     },
+    
+     {
+      "name": "Napoli",
+      "children": [
+       {"name": "Cicciano", "size": 1},
+       {"name": "Napoli", "size": 19},
+       {"name": "Piano di Sorrento", "size": 12},
+       {"name": "Striano", "size": 1},
+       {"name": "Pompei", "size": 2},
+       {"name": "Massa Lubrense", "size": 2},
+       {"name": "Agerola", "size": 4},
+       {"name": "Vico Ecquense", "size": 6},
+       {"name": "Afragola", "size": 1},
+       {"name": "Sant'Anastasia", "size": 3},
+       {"name": "Castellammare di Stabia", "size": 8}
+     
+     
+      
+      ]
+     },
+     {
+      "name": "Salerno",
+      "children": [
+       {"name": "Cava de'Tirreni", "size": 4},
+       {"name": "Petina", "size": 1},
+       {"name": "Pontecagnano Faiano", "size": 3},
+       {"name": "Salerno", "size": 3},
+       {"name": "Vibonati", "size": 3},
+       {"name": "San Cipriano Picentino", "size": 2},
+       {"name": "Agropoli", "size": 1},
+       {"name": "Capaccio-Paestum", "size": 1},
+       {"name": "San Mauro Cilento", "size": 2}
+      
+      
+      ]
+     },
+     {
+      "name": "Caserta",
+      "children": [
+       {"name": "Caserta", "size": 10},
+       {"name": "Alife", "size": 2},
+       {"name": "San Pietro Infine", "size": 1},
+       {"name": "Aversa", "size": 1},
+       {"name": "Capua", "size": 1},
+       {"name": "Alvignano", "size": 2},
+       {"name": "Dragoni", "size": 1},
+       {"name": "Marcianise", "size": 1},
+       {"name": "Piedimonte Matese", "size": 1},
+       {"name": "Ruviano", "size": 4},
+       {"name": "San Gregorio Matese", "size": 1},
+       {"name": "Galluccio", "size": 1}
+      
+      ]
+     }
+    ]
+   }
+    
